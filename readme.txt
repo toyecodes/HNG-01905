@@ -1,1 +1,0 @@
-This is a default text file for task stage 0.5
